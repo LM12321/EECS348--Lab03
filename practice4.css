@@ -1,0 +1,60 @@
+table{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-spacing: 20px;
+    border-collapse: separate;
+    padding: 10px;
+    border-spacing: 15px;
+    background-color: antiquewhite;
+}
+tr, td{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-spacing: 10px;
+    border-collapse: separate;
+    padding: 10px;
+    text-align: center;
+    border-spacing: 15px;
+}
+
+th{
+    border-width: 7px;
+    border-color: black;
+    border-style: solid;
+    border-spacing: 20px;
+    border-collapse: separate;
+    padding: 10px;
+    border-spacing: 15px;
+}
+
+body {
+    font-family: 'Comic Sans MS', monospace;
+    font-size: 30px;
+    color: rgb(3, 100, 100);
+    background-color: azure;
+    background-image: url(numbers.png);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: 15%;
+}
+
+h1 {
+    font-family: 'Comic Sans MS', monospace;
+    font-size: 30px;
+    color: darkcyan;
+    background-color: azure;
+}
+
+label {
+    font-family: 'Comic Sans MS', monospace;
+    font-size: 30px;
+    color: darkcyan;
+    background-color: azure;
+}
+
+#sans{
+    cursor: pointer;
+    
+}

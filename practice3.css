@@ -1,0 +1,31 @@
+body {
+    background-image: url('matrix-screensaver-matrix.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 45px;
+    font-family: Courier, 'Courier New', monospace;
+    text-align: center;
+    color: green;
+    background-color: black;
+
+}
+
+input{
+    font-family: Courier, 'Courier New', monospace;
+    background-color: black;
+    color: green
+
+}
+button{
+    font-family: Courier, 'Courier New', monospace;
+}
+p{
+    font-family: Courier, 'Courier New', monospace;
+    font-size: 35px;
+    text-align: center;
+    color: green;
+    background-color: black;
+}

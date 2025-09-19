@@ -1,0 +1,35 @@
+p{
+    background-color: white;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#text-to-change {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    white-space: pre-line;
+    color: black;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+
+#color-changer-button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: white;
+    border-color: black;
+    border-width: 10px;
+    border-color: black;
+    padding: 10px 20px;
+}
+
+body{
+    background-image: url("noise.png");
+    background-repeat: fixed;
+    background-attachment: cover;
+    background-color: white;
+}
